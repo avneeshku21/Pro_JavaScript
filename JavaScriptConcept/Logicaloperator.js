@@ -6,7 +6,7 @@
 ! not
 */
 let a=(5<7)&&(7<8)
-console.log(a)
+//console.log(a)
 
 // let user1=15
 // if((user1>=18) && (user1<=24))
@@ -18,9 +18,12 @@ console.log(a)
 //     console.log("false")
 
 const result=0&&2
-console.log(result)
+//console.log(result)
 
 
 const result2=0||2
-console.log(result2)
+//console.log(result2)
+
+const result3=' ' || 'Hey' 
+console.log(result)
 
