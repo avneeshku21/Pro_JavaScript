@@ -7,6 +7,7 @@ console.log gives undefiend Result
 
 ! not
 */
+
 let a=(5<7)&&(7<8)
 //console.log(a)
 
