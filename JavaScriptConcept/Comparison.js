@@ -3,7 +3,7 @@
 === Strictly equal
 != not equaal
 > Greater
-< less
+< less than
 */
 const user1=19
 const user2=20
