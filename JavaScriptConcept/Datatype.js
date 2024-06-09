@@ -21,7 +21,7 @@
 // *****************Datatype Conversion***********
 
 let score
-let game=0
+let game=34
 
 let ValueNum= Number(score)
 console.log(typeof(ValueNum))
