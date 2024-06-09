@@ -3,6 +3,8 @@
 &&(And) dono true
 || or
 
+console.log gives undefiend Result
+
 ! not
 */
 let a=(5<7)&&(7<8)
@@ -27,9 +29,9 @@ const result2=0||'Hey'
 const result3=' ' && 'hey'
 //console.log(result3)
 
-const result5=6+5||'hey'
+const result5=-4+4||'hey'
 console.log(result5)
 
-const result6='Hello' && 6+5
+const result6='Hello' && -4+4
 console.log(result6)
 
