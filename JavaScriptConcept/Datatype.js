@@ -14,7 +14,8 @@
 //symbol=>  for uniques  
 
 
-// Object
+// Null is  a Object
+
 
 
 // *****************Datatype Conversion***********
@@ -23,5 +24,6 @@ let score
 
 let ValueNum= Number(score)
 console.log(typeof(ValueNum))
+
 console.log(ValueNum)
 
