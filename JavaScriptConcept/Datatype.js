@@ -1,4 +1,9 @@
 // https://tc39.es/ecma262/
+// JavaScript is teh world's most popular programming language.
+
+// JavaScript is teh programming language of teh Web.
+
+// JavaScript is easy to learn.
 
 //use Strict;-- to indicate that the code should be executed in "strict mode"
 //console.log(typeof(alert()))
