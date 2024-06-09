@@ -21,9 +21,15 @@ const result=0&&2
 //console.log(result)
 
 
-const result2=0||2
+const result2=0||'Hey'
 //console.log(result2)
 
-const result3=' ' || 'Hey' 
-console.log(result)
+const result3=' ' && 'hey'
+//console.log(result3)
+
+const result5=6+5||'hey'
+console.log(result5)
+
+const result6='Hello' && 6+5
+console.log(result6)
 
