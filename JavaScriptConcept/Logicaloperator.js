@@ -30,8 +30,13 @@ const result3=' ' && 'hey'
 //console.log(result3)
 
 const result5=-4+4||'hey'
-console.log(result5)
+//console.log(result5)
 
 const result6='Hello' && -4+4
-console.log(result6)
+//onsole.log(result6)
+
+const new1='Hello'&& console.log('Hello')
+console.log(new1)
+const new2=console.log('Bye') ||'Hello' 
+console.log(new2)
 
