@@ -1,3 +1,4 @@
+// Here  Switch case Started
 const dayNum=9
 switch(dayNum)
 {
