@@ -36,7 +36,27 @@ let score
 let game=34
 
 let ValueNum= Number(score)
-console.log(typeof(ValueNum))
+//console.log(typeof(ValueNum))
 
-console.log(ValueNum)
+//console.log(ValueNum)
+
+const id=Symbol('123')
+const anotherId=Symbol('123')
+console.log(typeof(id))
+
+// Non Primitive Datatypes
+const heros=['Hulk', 'spiderman','Ironman','Thor']
+
+//Object
+let myObj={
+    User:"Avii",
+    age: 21,
+}
+
+const myFun=function()
+{
+    console.log("Hello World")
+}
+ const bigNumber=12334445555n
+console.log(typeof(bigNumber))
 
