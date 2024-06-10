@@ -1,5 +1,5 @@
-const username=prompt('Please Enter Username')
-const userAge=+prompt('Please enter Age')
+const username=prompt('Please Enter Username')|| 'Avii'
+const userAge=+prompt('Please enter Age') || 20
 
 if(userAge>=0 && userAge<=4)
     {
