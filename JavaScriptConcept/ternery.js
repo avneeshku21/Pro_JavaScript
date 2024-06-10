@@ -1,4 +1,5 @@
 // ternery Operator
+// a ? b : c evaluates to b if the value of a is true, and otherwise to c . 
 true ?'Avii':100
 let a= 5<2? "true":"false"
 console.log(a)
