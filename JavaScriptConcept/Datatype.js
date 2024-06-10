@@ -21,7 +21,14 @@
 
 // Null is  a Object
 
+/*
+7 Primitive 
+string number boolean null undefined symbol
+bigInt
 
+Non Primitive
+Array Objects Function
+*/
 
 // *****************Datatype Conversion***********
 
