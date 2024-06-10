@@ -1,4 +1,4 @@
-const dayNum=3
+const dayNum=9
 switch(dayNum)
 {
     case 0:
@@ -24,6 +24,6 @@ switch(dayNum)
         break
     default:
         console.log("Program Ended")
-        
+
 }
  
