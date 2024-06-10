@@ -1,3 +1,4 @@
+// ternery Operator
 true ?'Avii':100
 let a= 5<2? "true":"false"
 console.log(a)
