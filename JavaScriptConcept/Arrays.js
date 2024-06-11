@@ -33,7 +33,20 @@ const fruits = ["Apple", "banana", "grapes", "orange", "Mango"];
 // unshift is use for add element from start
 const evenNum=[2,4,6,8,10,12,14]
 console.log(evenNum.shift())
-
 console.log(evenNum.unshift(2))
 
-//
+//slice(optional start parameter, optional end parameter)
+// slice me jo value dete hai to whi s start krta hai aur end value dene pr usse ek kam ko leta hai
+// for ex-(3,7) so... slice krta hai 3 se aur  6 value tak
+const cities = ["Tokyo","Cairo","Los Angeles","Paris","Seattle"];
+
+const newCityArr = cities.slice(2,4)
+
+// splice splice(start, optional delete count, optional items to add)
+// 
+
+const food = ['pizza', 'cake', 'salad', 'cookie'];
+
+food.splice(1,0,"burrito")
+
+console.log(food)
