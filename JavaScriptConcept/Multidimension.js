@@ -42,6 +42,10 @@ const person1={
     age:21,
     city:"bly"
 }
-const person2={}
-const newObj=Object.assign(person2,person1)
-console.log(newObj)
+const person2={...person1}
+console.log(person2)
+// const newObj=Object.assign(person2,person1)
+// console.log(newObj)
+//new method spread operator
+
+
