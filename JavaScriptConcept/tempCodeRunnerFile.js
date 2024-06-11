@@ -1,3 +1,2 @@
-console.log(oldHeros.length)
-//  oldHeros[10]='Flying Jatt'
-//  console.log(oldHeros.length
+const student1='avneesh'
+// let student2=student1
