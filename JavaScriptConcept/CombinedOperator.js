@@ -17,4 +17,5 @@ num=++num+2
 console.log(num)
 let a=5
 a+=5
+a*=2
 console.log(a)

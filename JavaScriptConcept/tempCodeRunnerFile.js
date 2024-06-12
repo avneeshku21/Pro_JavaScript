@@ -1,2 +1,6 @@
-const student1='avneesh'
-// let student2=student1
+friends=0
+    while(friends<friends.length)
+        {
+            console.log(friends[i])
+            friends++
+        }
