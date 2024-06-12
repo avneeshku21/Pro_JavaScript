@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 //A JavaScript function is a block of code designed to perform a particular task. It encapsulates a set of instructions that can be reused throughout a program. Functions can take parameters, execute statements, and return values, enabling code organization, modularity, and reusability in JavaScript programming.
 //Function Defination
+=======
+
+//Function Definition
+>>>>>>> 387161f6bfa3da123313818fdd7c4a1cdec77c8b
 
 // function introDuceme()
 // {
