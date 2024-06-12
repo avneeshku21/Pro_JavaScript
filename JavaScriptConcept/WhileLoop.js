@@ -8,9 +8,9 @@ console.log('Person Started')
 //     }
     let friends=["Avii","Anisha", "Priya","Tanisha","Priyanshi","Shiva"]
 
-friend=0
-    while(friend<friends.length)
+i=0
+    while(i<friends.length)
         {
-            console.log(friends[friend])
-            friend++
+            console.log(`${i+1}.${friends[i]} Procodder` )
+            i++
         }
