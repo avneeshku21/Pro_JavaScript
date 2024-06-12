@@ -47,5 +47,6 @@ console.log(person2)
 // const newObj=Object.assign(person2,person1)
 // console.log(newObj)
 //new method spread operator
+//newww
 
 
