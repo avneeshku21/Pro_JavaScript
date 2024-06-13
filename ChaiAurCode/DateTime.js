@@ -16,6 +16,7 @@
 // console.log(TimeStamp);
 // console.log(mydate.getTime())
 //console.log(Math.floor(Date.now()/1000))
+//console.log(Math.floor(Date.now()/1000))
 
 let NewDate=new Date()
 console.log(NewDate)
