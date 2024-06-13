@@ -37,6 +37,9 @@ function sayhi()
 ********************
 Lexical scope is the ability for a function scope to access variables from the parent scope.
 
+Module scope are available anywhere within the current module, but aren't available from other files or modules.
+
+
 *******************
 A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function.
 
