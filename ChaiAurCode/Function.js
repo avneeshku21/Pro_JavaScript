@@ -1,7 +1,7 @@
 /*
 Note-:
 1 SayMyname ->  ye hota hai refrence
-    SayMyname()-> ye hota hai function execution
+  SayMyname()-> ye hota hai function execution
 
 2 Return k baad funtion kabhi aage ka code execute nhi krta
 
@@ -17,7 +17,7 @@ Note-:
 
 function addTwo(num1,num2)
 {
-    
+
 // console.log(num1+num2) 
 return num1+num2
 }
