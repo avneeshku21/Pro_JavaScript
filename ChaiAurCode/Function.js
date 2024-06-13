@@ -32,7 +32,7 @@ console.log(result);
 // console.log(calculatecart(200,300,400))
 
 const user={
-    username:"Avneesh",
+    username: "Avneesh",
     price:200
 }
 function handleobject(anyobj){
