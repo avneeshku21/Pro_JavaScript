@@ -1,1 +1,1 @@
-add()
+ console.log(x);
