@@ -31,4 +31,12 @@ function addTwo(a,b)
 }
 const Sum=addTwo(addTwo(4,6),addTwo(8,12))
 
-console.log(Sum)
+// console.log(Sum)
+
+//+++++++++Function decleartion++++++
+// fuction expresion
+const sayHi=function()
+{
+    console.log('Hiii')
+}
+sayHi()

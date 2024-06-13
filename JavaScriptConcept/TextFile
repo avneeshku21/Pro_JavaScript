@@ -1,0 +1,39 @@
+
+/*
+
+JavaScript has 8 Datatypes
+String
+Number
+Bigint
+Boolean
+Undefined
+Null
+Symbol
+Object
+
+**********************
+Temporal DeadZone-
+The Temporal Dead Zone (TDZ) is a concept in JavaScript that relates to the hoisting of the variables and the visibility of variables declared with let and const . In the TDZ, a variable exists but it cannot be accessed until it is not declared.
+
+***************fuction expresion
+
+*function defination
+*it is also call anonomous function
+
+const sayHi=function()
+{
+    console.log('Hiii')
+}
+sayHi()
+
+
+****************Function decleration
+function defination
+
+function sayhi()
+{
+}
+
+********************
+
+*/
