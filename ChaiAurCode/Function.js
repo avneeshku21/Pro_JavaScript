@@ -24,3 +24,22 @@ return num1+num2
 
 const result=addTwo(3,4)
 console.log(result);
+
+// function calculatecart(...num1)
+// {
+//     return num1
+// }
+// console.log(calculatecart(200,300,400))
+
+const user={
+    username:"Avneesh",
+    price:200
+}
+function handleobject(anyobj){
+    console.log(`username is ${anyobj.username} and price is ${anyobj.price}`)
+}
+handleobject(user)
+handleobject({
+    username:"Avii",
+    price:399
+})
