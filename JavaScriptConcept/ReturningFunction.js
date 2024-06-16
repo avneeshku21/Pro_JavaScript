@@ -1,5 +1,5 @@
 //Returning Function in Closures
-
+// It is a function that does not have any name associated with it. Normally we use the function keyword before the function name to define a function in JavaScript
 // function add()
 // {
 //     console.log(a+b)
