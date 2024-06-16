@@ -1,4 +1,4 @@
-//Returning Function  Closures
+//Returning Function in Closures
 
 // function add()
 // {
