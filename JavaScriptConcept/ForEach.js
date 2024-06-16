@@ -1,5 +1,5 @@
 
-//const hero=["Iron", "Man", "Captain America", "Hulk", "Thor", "Black Widow" , "Hawkeye"]
+const hero=["Iron", "Man", "Captain America", "Hulk", "Thor", "Black Widow" , "Hawkeye"]
 
 // hero.forEach(function(){
 //     console.log("Hello")
@@ -17,13 +17,16 @@
 // }
 // func();
 
-function newArr()
-{
-    const a=[12,34,56,78]
-    const b=[]
-    a.forEach(function(a){
-        b.push(a+2)
-    });
-    console.log(b)
-}
-newArr();
+// function newArr()
+// {
+//     const a=[12,34,56,78]
+//     const b=[]
+//     a.forEach(function(a){
+//         b.push(a+2)
+//     });
+//     console.log(b)
+// }
+// newArr();
+hero.forEach((hero)=>{
+console.log(hero)
+})
