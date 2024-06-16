@@ -9,8 +9,10 @@
 // console.dir(add)
 function parent()
 {
-    const a=4
+
+const a=4
 const b=5
+
     function add()
 {
     console.log(a+b)
