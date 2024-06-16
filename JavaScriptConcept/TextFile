@@ -55,7 +55,12 @@ init();
 
 Note------------------
 Event Loop -Event loop ka kaam hota hai call back queue  and call stack ko check krna
-What does it mean when we say JavaScript is single-threaded?
 
+
+Ascyncrouns Code-  Jo code sidha call stack me nhi jata hai usko bolte hai Asyncromouous code
+
+----Functions running in parallel with other functions are called asynchronous
+
+A good example is JavaScript setTimeout(),promises, eventloop
 
 */
