@@ -7,18 +7,42 @@
 // }
 // add()
 // console.dir(add)
-function parent()
-{
+/***************************** */
+// function parent()
+// {
 
-const a=4
-const b=5
+// const a=4
+// const b=5
 
-    function add()
+//     function add()
+// {
+//     console.log(a+b)
+
+// }
+// return add
+// }
+
+/************************/
+
+function outter()
+
 {
-    console.log(a+b)
+    const a=4
+    function parent()
+    {
+    
+    
+    const b=5
+    
+        function add()
+    {
+        console.log(a+b)
+    
+    }
+    return add
+    }
+    return parent
 
 }
-return add
-}
-const aadd1=parent()
+const aadd1=outter()
 console.log(aadd1)
