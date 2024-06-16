@@ -62,5 +62,12 @@ Ascyncrouns Code-  Jo code sidha call stack me nhi jata hai usko bolte hai Async
 ----Functions running in parallel with other functions are called asynchronous
 
 A good example is JavaScript setTimeout(),promises, eventloop
+/----------------------------
 
+Function Experssion / Functin Decleartion
+
+Function Declertion-  function keyword k age likhte hai usko bolte hai function decleration
+function Expresiion- jab ham kisi variable m store kr dete hai usko bolte hai function expression
+
+Arrow Function ke help s bhi function expression delcare kr skte hai
 */
