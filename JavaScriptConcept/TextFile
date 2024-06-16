@@ -53,4 +53,9 @@ function init() {
 }
 init();
 
+Note------------------
+Event Loop -Event loop ka kaam hota hai call back queue  and call stack ko check krna
+What does it mean when we say JavaScript is single-threaded?
+
+
 */
