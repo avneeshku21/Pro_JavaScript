@@ -10,7 +10,7 @@
 //Note----------------------------------
 // jab ham console.log(this ) krte hai to nodejs m empty object aata hai
 //Aur browser m sbse jada  globl object hai bo hai window object
-
+/*
 const user={
     username:"Avneesh",
     price:200,
@@ -23,4 +23,36 @@ const user={
 // user.welcomsg()
 // user.username="AVii"
 // user.welcomsg()
-console.log(this)
+
+console.log(this)*/
+
+
+//Arrow Function***************************
+
+// function chai()
+// {
+//     let username="Avii"
+//     //console.log("kadak Chai")
+//     console.log(this.username)
+// }
+// chai()
+
+// const chai= function()
+// {
+//     let usename="avneesh"
+//     console.log(this.usename)
+// }
+// chai()
+
+// const chai= ()=>
+// {
+//     let usename="avneesh"
+//     console.log(this.usename)
+//     // console.log(this)
+// }
+// chai()
+
+const addtwo=(a,b)=>{
+    return a+b
+}
+console.log(addtwo(2,5))
