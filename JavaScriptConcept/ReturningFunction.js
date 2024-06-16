@@ -1,5 +1,6 @@
 //Returning Function in Closures
 
+
 // function add()
 // {
 //     console.log(a+b)
