@@ -24,6 +24,6 @@ const Filtermonths= months.filter((months,index)=>{
 console.table(Filtermonths)
 
 const Filtermonths2= months.filter((months,index)=>{
-    return (months.includes('M'))
+    return (months.toUpperCase().includes('M'))
 })
 console.table(Filtermonths2)
