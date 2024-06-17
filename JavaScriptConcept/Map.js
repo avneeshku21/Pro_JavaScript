@@ -17,6 +17,11 @@
 //     return courses.toUpperCase()
 // })
 
+
+
+/*
+
+
 const months=["January","Febuary","March","Aprial","May","June","July","August","September","Octeber","November","December"]
 const Filtermonths= months.filter((months,index)=>{
     return (index,months.length>=5)
@@ -27,3 +32,37 @@ const Filtermonths2= months.filter((months,index)=>{
     return (months.toUpperCase().includes('M'))
 })
 console.table(Filtermonths2)
+
+*/
+const student=[
+    {
+        name:'Avii',
+        age:21,
+    }
+    , {
+        name:'Priya',
+        age:22,
+    },
+    {
+        name:'Anisha',
+        age:20,
+    },
+    {
+        name:'Laxu',
+        age:23,
+    },
+    {
+        name:'Priyanshi',
+        age:24,
+    }
+]
+
+const selectedStudent=student.filter((student)=>{
+    return student.age>21
+})
+console.log(selectedStudent)
+
+const selectedStudentName=selectedStudent.map((student)=>{
+    return student.name
+})
+console.log(selectedStudentName)
