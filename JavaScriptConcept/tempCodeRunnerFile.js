@@ -1,3 +1,1 @@
-hero.forEach(function(){
-//     console.log("Hello")
-// })
+console.log("sum",Result)
