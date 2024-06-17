@@ -19,8 +19,3 @@ for(let i=0; i<arguments.length; i++)
 }
 console.log(Result(2,2,2,2))
 
-function mul(a,b=1)
-{
-    return a*b
-}
-console.log(mul(2,''))
