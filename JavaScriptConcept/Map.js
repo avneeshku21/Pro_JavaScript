@@ -22,3 +22,8 @@ const Filtermonths= months.filter((months,index)=>{
     return (index,months.length>=5)
 })
 console.table(Filtermonths)
+
+const Filtermonths2= months.filter((months,index)=>{
+    return (months.includes('M'))
+})
+console.table(Filtermonths2)
