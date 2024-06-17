@@ -10,3 +10,5 @@ const exctnum=EvenNum.some((num)=>{
 return "Avii"
 })
 console.log(exctnum)
+
+// Every k case agrr ek bhi false hogya toh sbke liye false kr degaaaa
