@@ -34,6 +34,8 @@ const Filtermonths2= months.filter((months,index)=>{
 console.table(Filtermonths2)
 
 */
+
+/*********************** 
 const student=[
     {
         name:'Avii',
@@ -66,3 +68,6 @@ const selectedStudentName=selectedStudent.map((student)=>{
     return student.name
 })
 console.log(selectedStudentName)
+
+*/
+
