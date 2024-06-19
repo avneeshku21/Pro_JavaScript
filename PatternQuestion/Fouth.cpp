@@ -9,9 +9,9 @@ int main()
     cin>>clo;
     for(int i=row; i>=1; i--)
     {
-        for(int j=1; j<=clo; j++)
+        for(int j=clo; j>=1; j--)
         {
-cout<<i;
+cout<<j;
 
         }
         
