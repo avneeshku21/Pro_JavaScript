@@ -6,7 +6,7 @@ int main()
     {
         for(char j='A'; j<='E'; j++)
         {
-cout<<i;
+cout<<j;
 
         }
         
