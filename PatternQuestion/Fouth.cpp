@@ -1,3 +1,4 @@
+//----------- Pattern Question------------
 #include<iostream>
 using namespace std;
 int main()
