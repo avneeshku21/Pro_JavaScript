@@ -9,10 +9,10 @@
 
 //Note----------------------------------
 // jab ham console.log(this ) krte hai to nodejs m empty object aata hai
-//Aur browser m sbse jada  globl object hai bo hai window object
+//Aur browser m sbse jada  global object hai bo hai window object
 /*
 const user={
-    username:"Avneesh",
+    username: "Avneesh",
     price:200,
     welcomsg: function()
     {
