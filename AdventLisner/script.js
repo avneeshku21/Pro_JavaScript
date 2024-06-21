@@ -27,12 +27,21 @@ h1.addEventListener('click',function(){
 
 // Clone Method
 let=count=2
-card.addEventListener('click',()=>{
-//    const newCard=document.createElement('div')
-//    newCard.classList.add('card')
-const newcard=card.cloneNode()
-newcard.innerText=count
-count++
-   container.append(newcard)
+// card.addEventListener('click',()=>{
+// //    const newCard=document.createElement('div')
+// //    newCard.classList.add('card')
+// const newcard=card.cloneNode()
+// newcard.innerText=count
+// count++
+//    container.append(newcard)
 
-})
+// })
+//create 1000 card using for loop
+// const intervalId=setInterval(()=>{
+//     if(count>999)
+//         {
+//             clearInterval(intervalId)
+//         }
+//         card.click()
+// },5)
+

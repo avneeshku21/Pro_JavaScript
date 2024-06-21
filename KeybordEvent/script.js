@@ -9,7 +9,7 @@ input.addEventListener('keypress',(e)=>{
 })
 
 h1.addEventListener('keypress',(e)=>{
-    console.log(e)
+    console.log(e.key)
 
 })
 
