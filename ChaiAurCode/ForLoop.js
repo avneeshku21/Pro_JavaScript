@@ -61,7 +61,7 @@
 
 
 /*****For in loop in map */
-// map me ye loop ireteable nhi hai
+// map me ye loop irritable nhi hai
 // const map=new Map()
 // map.set('IN',"India")
 // map.set('USA',"United States of America")
