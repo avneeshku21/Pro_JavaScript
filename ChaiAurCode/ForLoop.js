@@ -15,23 +15,23 @@
 //*****************Maps
 
 
-//Map hold Unique value
+//Map holds Unique value
 
 // const map=new Map()
-// map.set('IN',"India")
+// map.set('IN', "India")
 // map.set('USA',"United States of America")
 // map.set('Fr',"France")
 // console.log(map)
 
-// for (const [key,value] of map) // Destructure syntax
+// for (const [key, value] of map) // Destructure syntax
 //      {
 //     console.log(key, ':-',value)
     
 // }
 
 // const myObj={ // object is not itreateable in for of
-//     'game':"Nfs",
-//     'game2':"spiderman"
+//     'game': "Nfs",
+//     'game2':"Spiderman"
 // }
 
 // for (const [key,value] of myobj) {
@@ -43,7 +43,7 @@
 //***************For In Loop************** */
 
 // const myObject={
-//     js:"JavaScript",
+//     js: "JavaScript",
 //     cpp:"C++",
 //     swift:"swift"
 // }
