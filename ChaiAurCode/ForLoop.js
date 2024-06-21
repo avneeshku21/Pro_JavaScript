@@ -63,9 +63,9 @@
 /*****For in loop in map */
 // map me ye loop irritable nhi hai
 // const map=new Map()
-// map.set('IN',"India")
-// map.set('USA',"United States of America")
-// map.set('Fr',"France")
+// map.set('IN', "India")
+// map.set('USA', "United States of America")
+// map.set('Fr', "France")
 // for(const key in map)
 //     {
 //         console.log(map[key])
@@ -74,7 +74,7 @@
 
 
 // Most used loop for Each loop
- const lang=['js','python','java','c','go']
+ const lang=['js','python', 'java','c','go']
 // lang.forEach((val)=>{
 // console.log(val)
 // })
