@@ -1,5 +1,6 @@
 //Function arguments are the real values passed to (and received by) the function.
-//If a function is called with missing arguments (less than declared), the missing values are set to undefined.
+//If a function is called with missing arguments (less than declared), the missing values are undefined.
+// The rest parameter (...) allows a function to treat an indefinite number of arguments as an array:
 function add(a,b)
 {
     //console.log(arguments)// Sare arguments Object m chle jaate hain
