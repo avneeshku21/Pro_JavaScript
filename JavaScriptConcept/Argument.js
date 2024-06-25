@@ -1,3 +1,4 @@
+//Function arguments are the real values passed to (and received by) the function.
 function add(a,b)
 {
     //console.log(arguments)// Sare arguments Object m chle jaate hain
