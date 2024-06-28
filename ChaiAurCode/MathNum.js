@@ -1,4 +1,4 @@
-// //+++++++++++++Number++++++++++
+// +++++++++++++Number++++++++++
 // let score=400
 
 // let text =score.toString();
