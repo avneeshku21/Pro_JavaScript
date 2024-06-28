@@ -29,7 +29,7 @@ const regularUser={
 // console.log(Object.keys(tinderUser))
 // console.log(Object.values(tinderUser))
 
-//***************Destructure  start */
+//***************Destructure  start ****************/
 const course={
     coursename:"js in hindi",
     price:"999",
