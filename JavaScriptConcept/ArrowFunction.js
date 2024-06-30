@@ -1,5 +1,5 @@
 
-//Function Decleration
+//Function Declaration
 
 // function square(num) {
 //     return num*num
@@ -19,7 +19,6 @@
 // JavaScript Execution Context is the environment in which JavaScript code is executed. It contains information about the variables, functions, and objects that are available to the code being executed, as well as the scope chain and the value of the 'this' keyword.
 
 // An execution context has two phases:
-
 // creation phase
 // execution phase
 const squr=(num)=>{
