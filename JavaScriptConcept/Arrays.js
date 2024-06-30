@@ -4,7 +4,7 @@
 //JavaScript arrays are zero-indexed: the first element of an array is at index 0, the second is at index 1
 /**
  1 Array type of is = Object
-2 in array we can add element at any index
+2 in the array we can add an element at any index
  */
 
 const fruits = ["Apple", "banana", "grapes", "orange", "Mango"];
