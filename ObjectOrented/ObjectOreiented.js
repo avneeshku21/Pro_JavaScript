@@ -22,3 +22,4 @@ age:age
     }
     return user
 }
+const user2=creatUser('Avii','Kumar',22)
